@@ -1,0 +1,14 @@
+layout_spectrum: 0.2676214298699051
+typography_spectrum: 0.19335031136870384
+color:
+  brandStrength: 0.06804051739163697
+  lightness: 0.7953017128165811
+  saturation: 0.06290078978054225
+  rhythmicContrast: 0.24681301834061742
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: amesbud
